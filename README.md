@@ -58,9 +58,9 @@ This project was created as an Android development activity to practice:
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="S1.png" width="250">
-  <img src="S2.png" width="250">
-  <img src="S3.png" width="250">
+  <img src="Screenshots/S1.png" width="250">
+  <img src="Screenshots/S2.png" width="250">
+  <img src="Screenshots/S3.png" width="250">
 </p>
 
 
